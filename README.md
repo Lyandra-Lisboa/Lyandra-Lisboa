@@ -6,15 +6,6 @@ I am a Data Analyst specializing in **ETL processes**. I focus on designing and 
 
 ---
 
-### 🚀 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lyandra-Lisboa&show_icons=true&theme=onedark&hide_title=true&hide_rank=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyandra-Lisboa&layout=compact&theme=onedark" alt="Top Languages" />
-</div>
-
----
-
 ### 🛠️ My Data Analyst Toolkit
 
 | Category | Skills & Tools |
